@@ -1,0 +1,65 @@
+Taylor & Francis
+
+Taylor & Francis Group,
+
+DISABILITY AND REHABILITATION: ASSISTIVE TECHNOLOGY
+https://doi.org/10.1080/17483107.2020.1786731
+
+   
+
+REVIEW ARTICLE | Check for updates
+
+Assistive device using computer vision and image processing for visually
+impaired; review and current status
+
+Karan Patel ® and Bhavesh Parmar ©
+L. D College of Engineering, Gujarat Technological University, Ahmedabad, India
+
+ABSTRACT ARTICLE HISTORY
+Purpose: The purpose of this article is to review the vision substitution devices based on computer vision Received 15 March 2020
+and Image processing. The focus of this article is on reviewing devices that require coding and sen- Revised 19 June 2020
+sors mechanism. Accepted 20 June 2020
+
+Methods: Review of existing and commercially available vision assistive devices has been done.
+Comparison is based on feedback mechanics, adaptability in the surrounding environment, and function- AE itive devices visually
+ality of devices. The study extended to advanced researches based on computer science and image proc irnpaired, computer vsion;
+essing. The integration of object detection and face recognition techniques in assistive devices for electronic mobility aid;
+visually impaired in specific applications has been studied. Comparative analyses were presented. vision impairments
+Results: The findings from this study suggest that a few assistive devices are available commercially. The
+
+commercially available assistive devices influenced by the mindsets of visually impaired and economical
+
+benefits. A combination of several devices can be fruitful in eliminating the limitation of an available
+
+device. Ample researches have been done for navigation, communication, object detection, and object
+
+recognition to assist visual impaired. The primary results might be promising, but most studies are not
+
+tested in actual conditions.
+
+Conclusion: Various assistive devices for visually impaired are available commercially and several studies
+
+indicate further advancement. However, adaptability and trustworthiness are major issues. The primary
+
+reason behind this is the low-performance level of the device, feedback, and testing. The secondary rea-
+
+son is commercial availability and poor knowledge of the end-user.
+
+  
+
+> IMPLICATIONS FOR REHABILITATION
+
+Advancement in computer science and image processing has paved the way to assist sensory
+impaired in doing various activities.
+
+© Assistive technologies play a pivotal role in daily activities of visually impaired by assisting them for
+
+communication, and mobility.
+
+Assistive technologies can lead visually impaired to make them self-sustained.
+
+Very few research and devices related to assistive technology had reached the stage of testing and
+
+commercialization.
+
+© Researchers can utilize the study in providing better assistive technology for the visually impaired.
